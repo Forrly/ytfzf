@@ -1,5 +1,5 @@
 #Author: Liza (vorrrl@mail.ru)
-#this file is read when it is placed in ~/.config/ytfzf
+#Something
 
 #Conflict Situation2
 
