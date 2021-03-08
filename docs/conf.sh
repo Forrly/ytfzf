@@ -10,7 +10,7 @@
 #  ENV VARIABLES  #
 ###################
 
-#There were some other changes here
+#There Were some other changes here
 #when setting them through export, use the variable in parentheses instead
 #variables set through export will override the ones set here
 
