@@ -1,4 +1,4 @@
-#This is the default config file
+#Author: Forly (vorrrl@mail.ru)
 #this file is read when it is placed in ~/.config/ytfzf
 
 #keep in mind that this is a .sh file, and can be used as such
