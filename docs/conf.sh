@@ -7,7 +7,7 @@
     #so feel free to get rid of anything you don't want in here
 
 ###################
-#  ENV VARIABLES  #
+#  Some the changes  #
 ###################
 
 #each variable below can be set here, or using export
