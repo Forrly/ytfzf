@@ -7,7 +7,7 @@
     #so feel free to get rid of anything you don't want in here
 
 ###################
-#  Some the CHanges  #
+#  Some THE CHanges  #
 ###################
 
 #each variable below can be set here, or using export
