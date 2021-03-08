@@ -1,5 +1,5 @@
-#Author: Liza (vorrrl@mail.ru)
-#Something
+#Author: Forly (vorrrl@mail.ru)
+#Merge Conflict Resolution
 
 #Conflict Situation2
 
