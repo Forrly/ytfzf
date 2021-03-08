@@ -1,5 +1,5 @@
 #Author: Forly (vorrrl@mail.ru)
-#this file is read when it is placed in ~/.config/ytfzf
+#Merge Conflict Resolution
 
 #keep in mind that this is a .sh file, and can be used as such
 
