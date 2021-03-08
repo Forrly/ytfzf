@@ -1,7 +1,7 @@
 #Author: Forly (vorrrl@mail.ru)
 #Merge Conflict Resolution
 
-#keep in mind that this is a .sh file, and can be used as such
+#Conflict situation 3
 
 #this config file can be completely empty and ytfzf will still work (as these are the default settings),
     #so feel free to get rid of anything you don't want in here
